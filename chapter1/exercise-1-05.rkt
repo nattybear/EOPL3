@@ -9,4 +9,4 @@
 ;     parentheses, therefore they are balanced
 ; 2b) e has the form (LcExp LcExp):
 ;     If the first LcExp has n opening/closing parentheses and the second one m,
-;     e has n+m+1 opening/closing parentheses.
+;     e has n+m+2 opening/closing parentheses.
